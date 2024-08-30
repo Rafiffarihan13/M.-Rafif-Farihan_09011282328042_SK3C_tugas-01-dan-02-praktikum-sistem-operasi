@@ -5,133 +5,126 @@
 ### 1. Persiapan Awal
 - Buat nama dan pilih ISO yang akan digunakan
   
-  ![Pemilihan ISO](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/1.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/1.png" width="600" alt="Pemilihan ISO">
 
 ### 2. Konfigurasi Sistem
 - Atur base memory dan CPU yang ingin digunakan
   
-  ![Konfigurasi Sistem](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/2.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/2.png" width="600" alt="Konfigurasi Sistem">
 
 ### 3. Pengaturan Penyimpanan
 - Pilih direktori file virtual machine dan atur ukuran hard disk
   
-  ![Pengaturan Penyimpanan](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/3.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/3.png" width="600" alt="Pengaturan Penyimpanan">
 
 ### 4. Tinjauan Pengaturan
 - Tampilan hasil dari pengaturan sebelumnya
   
-  ![Tinjauan Pengaturan](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/4.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/4.png" width="600" alt="Tinjauan Pengaturan">
 
 ### 5. Optimasi Video
 - Atur video memory ke maksimum dan aktifkan Enable 3D Acceleration untuk performa video yang lebih baik
   
-  ![Optimasi Video](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/5.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/5.png" width="600" alt="Optimasi Video">
 
 ### 6. Memulai Instalasi
 - Klik tombol start untuk memulai proses instalasi
   
-  ![Memulai Instalasi](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/6.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/6.png" width="600" alt="Memulai Instalasi">
 
 ### 7. Tampilan Awal Instalasi
 - Tampilan awal proses instalasi Linux Mint
   
-  ![Tampilan Awal Instalasi](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/7.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/7.png" width="600" alt="Tampilan Awal Instalasi">
 
 ### 8. Pemilihan Bahasa
 - Pilih bahasa yang diinginkan (dalam contoh ini, Bahasa Inggris (US))
   
-  ![Pemilihan Bahasa](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/8.png)
-  ![Konfirmasi Bahasa](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/9.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/8.png" width="600" alt="Pemilihan Bahasa">
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/9.png" width="600" alt="Konfirmasi Bahasa">
 
 ### 9. Instalasi Codec Multimedia
 - Centang opsi "install multimedia codecs"
   
-  ![Instalasi Codec](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/10.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/10.png" width="600" alt="Instalasi Codec">
 
 ### 10. Pemilihan Metode Instalasi
 - Pilih opsi "Something else" untuk konfigurasi partisi manual
   
-  ![Metode Instalasi](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/11.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/11.png" width="600" alt="Metode Instalasi">
 
 ### 11. Konfigurasi Partisi
 - Pilih "Ext4 journaling file system" dan set mount point ke "/"
   
-  ![Konfigurasi Partisi](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/12.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/12.png" width="600" alt="Konfigurasi Partisi">
 
 ### 12. Finalisasi Partisi
 - Klik "New Partition Table", lalu "Continue"
 - Pilih partisi "/dev/sda" dan klik "Install now"
   
-  ![Finalisasi Partisi](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/13.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/13.png" width="600" alt="Finalisasi Partisi">
 
 ### 13. Pengaturan Lokasi
 - Pilih lokasi Anda untuk mengatur zona waktu
   
-  ![Pengaturan Lokasi](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/14.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/14.png" width="600" alt="Pengaturan Lokasi">
 
 ### 14. Pembuatan Akun
 - Masukkan nama dan password untuk akun baru
   
-  ![Pembuatan Akun](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/15.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/15.png" width="600" alt="Pembuatan Akun">
 
 ### 15. Proses Instalasi
 - Tunggu hingga proses instalasi selesai
   
-  ![Proses Instalasi](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/16.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/16.png" width="600" alt="Proses Instalasi">
 
 ### 16. Restart Sistem
 - Pilih "Restart" setelah instalasi selesai
   
-  ![Restart Sistem](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/17.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/17.png" width="600" alt="Restart Sistem">
 
 ### 17. Boot Pertama
 - Tekan Enter pada tampilan ini
   
-  ![Boot Pertama](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/18.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/18.png" width="600" alt="Boot Pertama">
 
 ### 18. Login
 - Masukkan password yang telah dibuat sebelumnya
   
-  ![Login](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/19.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/19.png" width="600" alt="Login">
 
 ### 19. Selesai!
 - Tampilan desktop Linux Mint yang siap digunakan
   
-  ![Desktop Linux Mint](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/20.png)
+  <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/20.png" width="600" alt="Desktop Linux Mint">
 
 ## Pertanyaan Tambahan
 
 ### 2. Mengapa perlu memilih "/" pada opsi Mount Point saat instalasi?
 
-![Mount Point "/"](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/soal%20no%202.png)
+<img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/soal%20no%202.png" width="600" alt="Mount Point '/'">
 
 Karena root mencakup semua direktori lain di dalam system. Seluruh hirarki direktori yang ditemukan dalam satu partition atau disk disebut sebagai system file.Titik mount digunakan sebagai direktori root dari sistem berkas, dan sistem berkas itu dapat diakses dari direktori itu. Isi sebelumnya dari direktori tersebut menjadi tidak terlihat dan tidak dapat diakses hingga sistem berkas dilepas (terlepas).
 
-
 ### 3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
 
-1. **Ext4**:
-   •	Ext4: Peningkatan dari ext4. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Mempunyai pengalamatan 48-bit          block yang artinya dia akan mempunyai 1EB = 1,048,576 TB ukuran maksimum filesystem dengan 16 TB untuk maksimum file size nya,Fast fsck,Journal checksumming,Defragmentation support.
+   * Ext4: Peningkatan dari ext4. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Mempunyai pengalamatan 48-bit 
+            block yang artinya dia akan mempunyai 1EB = 1,048,576 TB ukuran maksimum filesystem dengan 16 TB untuk maksimum file size nya,Fast fsck,Journal checksumming,Defragmentation support.
 
-2. **Ext3**:
-   •  Ext3: Peningkatan dari ext2. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Tidak perlu lagi dilakukan             pengecekan data setelah kegagalan system.
+   * Ext3: Peningkatan dari ext2. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Tidak perlu lagi dilakukan 
+           pengecekan data setelah kegagalan system.
 
-3. **Swap**:
-   •	Swap: suatu pembagian file system atau ruang kosong pada tempat penyimpanan saat komputer membutuhkan tambahan memori. Di mana SWAP itu sendiri merupakan sebuah ruang pada harddisk atau tempat penyimpanan 
-      sebagai virtual memory pada saat komputer membutuhkan banyak memori.
-   
-4. **NTFS (New Technology File System)**:
-   •	NTFS: New Technology File System, peningkatan dari FAT. Mempunyai fitur yang sangat berguna seperti mencegah kehilangan data karena crash, file compress, dan akses control data.
+   *  Swap: suatu pembagian file system atau ruang kosong pada tempat penyimpanan saat komputer membutuhkan tambahan memori. Di mana SWAP itu sendiri merupakan sebuah ruang pada harddisk atau tempat penyimpanan 
+            sebagai virtual memory pada saat komputer membutuhkan banyak memori.
+    
+   *  NTFS: New Technology File System, peningkatan dari FAT. Mempunyai fitur yang sangat berguna seperti mencegah kehilangan data karena crash, file compress, dan akses control data.
 
-5. **FAT32**:
-   •	Fat32 adalah versi terbaru dari sistem berkas FAT (File Allocation Table). Sistem berkas ini menggunakan struktur tabel alokasi berkas sebagai metode untuk mengatur data di dalamnya. Fat32 diperkenalkan 
+   *  Fat32 adalah versi terbaru dari sistem berkas FAT (File Allocation Table). Sistem berkas ini menggunakan struktur tabel alokasi berkas sebagai metode untuk mengatur data di dalamnya. Fat32 diperkenalkan 
       untuk mengatasi keterbatasan dari versi FAT sebelumnya, seperti FAT16, terutama dalam hal kapasitas penyimpanan dan ukuran berkas maksimum. Dengan menggunakan Fat32, pengguna dapat menggunakan partisi disk 
       yang lebih besar, hingga 2 terabyte, dan menyimpan berkas dengan ukuran yang lebih besar dari 4 gigabyte. Hal ini membuat Fat32 menjadi pilihan yang lebih efisien dan fleksibel untuk berbagai perangkat 
       penyimpanan, termasuk hard drive dan media penyimpanan portabel lainnya.
 
-6. **Btrfs**:
-   •	Brtfs: Copy-On-Write file system yang ditujukan untuk mengimplementasikan fitur yang canggih dan juga terfokus pada fault tolerance, perbaikan, dan kemudahan administrasi. Prinsip copy-on-write, yaitu 
-      ketika sebuah block data hendak mengalami perubahan, perubahan tidak dilakukan pada block tersebut, tetapi block tersebut akan dibuatkan salinannya dan perubahan dilakukan pada salinan tersebut (salinan 
-      tidak akan dibuat sebelum adanya permintaan modifikasi dari pengguna data).
-
-
+   *  Brtfs: Copy-On-Write file system yang ditujukan untuk mengimplementasikan fitur yang canggih dan juga terfokus pada fault tolerance, perbaikan, dan kemudahan administrasi. Prinsip copy-on-write, yaitu      
+      ketika sebuah block data hendak mengalami perubahan, perubahan tidak dilakukan pada block tersebut, tetapi block tersebut akan dibuatkan salinannya dan perubahan dilakukan pada salinan tersebut 
+      (salinan tidak akan dibuat sebelum adanya permintaan modifikasi dari pengguna data).
