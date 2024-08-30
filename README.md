@@ -1,4 +1,4 @@
-# Panduan Instalasi Linux Mint
+# Tugas 1 proses instalasi linux
 
 ## Langkah-langkah Instalasi
 
@@ -101,43 +101,37 @@
 
 ## Pertanyaan Tambahan
 
-### 1. Mengapa perlu memilih "/" pada opsi Mount Point saat instalasi?
+### 2. Mengapa perlu memilih "/" pada opsi Mount Point saat instalasi?
 
 ![Mount Point "/"](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/soal%20no%202.png)
 
-Pemilihan "/" sebagai Mount Point sangat penting karena:
+Karena root mencakup semua direktori lain di dalam system. Seluruh hirarki direktori yang ditemukan dalam satu partition atau disk disebut sebagai system file.Titik mount digunakan sebagai direktori root dari sistem berkas, dan sistem berkas itu dapat diakses dari direktori itu. Isi sebelumnya dari direktori tersebut menjadi tidak terlihat dan tidak dapat diakses hingga sistem berkas dilepas (terlepas).
 
-- Root ("/") mencakup semua direktori lain dalam sistem.
-- Seluruh hierarki direktori yang ditemukan dalam satu partisi atau disk disebut sebagai sistem file.
-- Titik mount digunakan sebagai direktori root dari sistem berkas, memungkinkan akses ke seluruh sistem dari direktori tersebut.
-- Isi sebelumnya dari direktori tersebut menjadi tidak terlihat dan tidak dapat diakses hingga sistem berkas dilepas.
 
-### 2. Penjelasan tentang berbagai sistem file
+### 3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
 
 1. **Ext4**:
-   - Peningkatan dari ext3
-   - Mendukung pengalamatan 48-bit block (maksimum 1 EB = 1,048,576 TB)
-   - Ukuran file maksimum 16 TB
-   - Fitur: Fast fsck, Journal checksumming, Dukungan defragmentasi
+   •	Ext4: Peningkatan dari ext4. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Mempunyai pengalamatan 48-bit          block yang artinya dia akan mempunyai 1EB = 1,048,576 TB ukuran maksimum filesystem dengan 16 TB untuk maksimum file size nya,Fast fsck,Journal checksumming,Defragmentation support.
 
 2. **Ext3**:
-   - Peningkatan dari ext2
-   - Tidak memerlukan pengecekan data setelah kegagalan sistem
+   •  Ext3: Peningkatan dari ext2. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Tidak perlu lagi dilakukan             pengecekan data setelah kegagalan system.
 
 3. **Swap**:
-   - Ruang pada hard disk yang berfungsi sebagai virtual memory
-   - Digunakan saat komputer membutuhkan tambahan memori
-
+   •	Swap: suatu pembagian file system atau ruang kosong pada tempat penyimpanan saat komputer membutuhkan tambahan memori. Di mana SWAP itu sendiri merupakan sebuah ruang pada harddisk atau tempat penyimpanan 
+      sebagai virtual memory pada saat komputer membutuhkan banyak memori.
+   
 4. **NTFS (New Technology File System)**:
-   - Peningkatan dari FAT
-   - Fitur: Pencegahan kehilangan data akibat crash, kompresi file, dan kontrol akses data
+   •	NTFS: New Technology File System, peningkatan dari FAT. Mempunyai fitur yang sangat berguna seperti mencegah kehilangan data karena crash, file compress, dan akses control data.
 
 5. **FAT32**:
-   - Versi terbaru dari sistem berkas FAT (File Allocation Table)
-   - Mendukung partisi disk hingga 2 terabyte
-   - Dapat menyimpan file dengan ukuran lebih dari 4 gigabyte
+   •	Fat32 adalah versi terbaru dari sistem berkas FAT (File Allocation Table). Sistem berkas ini menggunakan struktur tabel alokasi berkas sebagai metode untuk mengatur data di dalamnya. Fat32 diperkenalkan 
+      untuk mengatasi keterbatasan dari versi FAT sebelumnya, seperti FAT16, terutama dalam hal kapasitas penyimpanan dan ukuran berkas maksimum. Dengan menggunakan Fat32, pengguna dapat menggunakan partisi disk 
+      yang lebih besar, hingga 2 terabyte, dan menyimpan berkas dengan ukuran yang lebih besar dari 4 gigabyte. Hal ini membuat Fat32 menjadi pilihan yang lebih efisien dan fleksibel untuk berbagai perangkat 
+      penyimpanan, termasuk hard drive dan media penyimpanan portabel lainnya.
 
 6. **Btrfs**:
-   - Copy-On-Write file system
-   - Fokus pada fault tolerance, perbaikan, dan kemudahan administrasi
-   - Menggunakan prinsip copy-on-write untuk efisiensi dan keamanan data
+   •	Brtfs: Copy-On-Write file system yang ditujukan untuk mengimplementasikan fitur yang canggih dan juga terfokus pada fault tolerance, perbaikan, dan kemudahan administrasi. Prinsip copy-on-write, yaitu 
+      ketika sebuah block data hendak mengalami perubahan, perubahan tidak dilakukan pada block tersebut, tetapi block tersebut akan dibuatkan salinannya dan perubahan dilakukan pada salinan tersebut (salinan 
+      tidak akan dibuat sebelum adanya permintaan modifikasi dari pengguna data).
+
+
