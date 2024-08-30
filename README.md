@@ -99,7 +99,7 @@
   
   <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/20.png" width="600" alt="Desktop Linux Mint">
 
-## Pertanyaan Tambahan
+## Tugas 2
 
 ### 2. Mengapa perlu memilih "/" pada opsi Mount Point saat instalasi?
 
