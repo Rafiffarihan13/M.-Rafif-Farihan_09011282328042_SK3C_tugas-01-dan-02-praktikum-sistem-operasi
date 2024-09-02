@@ -110,13 +110,13 @@
 
 <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/soal%20no%202.png" width="600" alt="Mount Point '/'">
 
-<div style="text-align: right;">
+<div align="justify">
 Karena root mencakup semua direktori lain di dalam system. Seluruh hirarki direktori yang ditemukan dalam satu partition atau disk disebut sebagai system file.Titik mount digunakan sebagai direktori root dari sistem berkas, dan sistem berkas itu dapat diakses dari direktori itu. Isi sebelumnya dari direktori tersebut menjadi tidak terlihat dan tidak dapat diakses hingga sistem berkas dilepas (terlepas).
 </div>
 
 ### 3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32, btrfs!
 
-<div style="text-align: right;">
+<div align="justify">
 
 * **Ext4**: Peningkatan dari ext3. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Mempunyai pengalamatan 48-bit block yang artinya dia akan mempunyai 1EB = 1,048,576 TB ukuran maksimum filesystem dengan 16 TB untuk maksimum file size-nya, Fast fsck, Journal checksumming, Defragmentation support.
 
