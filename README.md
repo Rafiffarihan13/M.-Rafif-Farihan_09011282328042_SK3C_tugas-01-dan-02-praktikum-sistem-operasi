@@ -1,9 +1,14 @@
+* Nama : M. Rafif Farihan
+* Nim  : 09011282328042
+* kelas: SK3C
+* MK   : Praktikum sistem operasi
+
 # Tugas 1 proses instalasi linux
 
 ## Langkah-langkah Instalasi
 
 ### 1. Persiapan Awal
-- Buat nama dan pilih ISO yang akan digunakan
+- pertama masuk ke virtualbox kemudian klik new setelah itu buat nama dan pilih ISO yang akan digunakan
   
   <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/1.png" width="600" alt="Pemilihan ISO">
 
@@ -105,26 +110,24 @@
 
 <img src="https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_tugas-01-dan-02-praktikum-sistem-operasi/blob/main/soal%20no%202.png" width="600" alt="Mount Point '/'">
 
+<div style="text-align: right;">
 Karena root mencakup semua direktori lain di dalam system. Seluruh hirarki direktori yang ditemukan dalam satu partition atau disk disebut sebagai system file.Titik mount digunakan sebagai direktori root dari sistem berkas, dan sistem berkas itu dapat diakses dari direktori itu. Isi sebelumnya dari direktori tersebut menjadi tidak terlihat dan tidak dapat diakses hingga sistem berkas dilepas (terlepas).
+</div>
 
-### 3.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
+### 3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32, btrfs!
 
-   * Ext4: Peningkatan dari ext4. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Mempunyai pengalamatan 48-bit 
-            block yang artinya dia akan mempunyai 1EB = 1,048,576 TB ukuran maksimum filesystem dengan 16 TB untuk maksimum file size nya,Fast fsck,Journal checksumming,Defragmentation support.
+<div style="text-align: right;">
 
-   * Ext3: Peningkatan dari ext2. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Tidak perlu lagi dilakukan 
-           pengecekan data setelah kegagalan system.
+* **Ext4**: Peningkatan dari ext3. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Mempunyai pengalamatan 48-bit block yang artinya dia akan mempunyai 1EB = 1,048,576 TB ukuran maksimum filesystem dengan 16 TB untuk maksimum file size-nya, Fast fsck, Journal checksumming, Defragmentation support.
 
-   *  Swap: suatu pembagian file system atau ruang kosong pada tempat penyimpanan saat komputer membutuhkan tambahan memori. Di mana SWAP itu sendiri merupakan sebuah ruang pada harddisk atau tempat penyimpanan 
-            sebagai virtual memory pada saat komputer membutuhkan banyak memori.
-    
-   *  NTFS: New Technology File System, peningkatan dari FAT. Mempunyai fitur yang sangat berguna seperti mencegah kehilangan data karena crash, file compress, dan akses control data.
+* **Ext3**: Peningkatan dari ext2. Sebuah metode penyimpanan dan pengorganisasian data/file pada komputer dengan menggunakan sebuah media penyimpanan seperti harddisk dan CD-ROM. Tidak perlu lagi dilakukan pengecekan data setelah kegagalan sistem.
 
-   *  Fat32 adalah versi terbaru dari sistem berkas FAT (File Allocation Table). Sistem berkas ini menggunakan struktur tabel alokasi berkas sebagai metode untuk mengatur data di dalamnya. Fat32 diperkenalkan 
-      untuk mengatasi keterbatasan dari versi FAT sebelumnya, seperti FAT16, terutama dalam hal kapasitas penyimpanan dan ukuran berkas maksimum. Dengan menggunakan Fat32, pengguna dapat menggunakan partisi disk 
-      yang lebih besar, hingga 2 terabyte, dan menyimpan berkas dengan ukuran yang lebih besar dari 4 gigabyte. Hal ini membuat Fat32 menjadi pilihan yang lebih efisien dan fleksibel untuk berbagai perangkat 
-      penyimpanan, termasuk hard drive dan media penyimpanan portabel lainnya.
+* **Swap**: Suatu pembagian file system atau ruang kosong pada tempat penyimpanan saat komputer membutuhkan tambahan memori. Di mana SWAP itu sendiri merupakan sebuah ruang pada harddisk atau tempat penyimpanan sebagai virtual memory pada saat komputer membutuhkan banyak memori.
 
-   *  Brtfs: Copy-On-Write file system yang ditujukan untuk mengimplementasikan fitur yang canggih dan juga terfokus pada fault tolerance, perbaikan, dan kemudahan administrasi. Prinsip copy-on-write, yaitu      
-      ketika sebuah block data hendak mengalami perubahan, perubahan tidak dilakukan pada block tersebut, tetapi block tersebut akan dibuatkan salinannya dan perubahan dilakukan pada salinan tersebut 
-      (salinan tidak akan dibuat sebelum adanya permintaan modifikasi dari pengguna data).
+* **NTFS**: New Technology File System, peningkatan dari FAT. Mempunyai fitur yang sangat berguna seperti mencegah kehilangan data karena crash, file compress, dan akses control data.
+
+* **Fat32**: Adalah versi terbaru dari sistem berkas FAT (File Allocation Table). Sistem berkas ini menggunakan struktur tabel alokasi berkas sebagai metode untuk mengatur data di dalamnya. Fat32 diperkenalkan untuk mengatasi keterbatasan dari versi FAT sebelumnya, seperti FAT16, terutama dalam hal kapasitas penyimpanan dan ukuran berkas maksimum. Dengan menggunakan Fat32, pengguna dapat menggunakan partisi disk yang lebih besar, hingga 2 terabyte, dan menyimpan berkas dengan ukuran yang lebih besar dari 4 gigabyte. Hal ini membuat Fat32 menjadi pilihan yang lebih efisien dan fleksibel untuk berbagai perangkat penyimpanan, termasuk hard drive dan media penyimpanan portabel lainnya.
+
+* **Btrfs**: Copy-On-Write file system yang ditujukan untuk mengimplementasikan fitur yang canggih dan juga terfokus pada fault tolerance, perbaikan, dan kemudahan administrasi. Prinsip copy-on-write, yaitu ketika sebuah block data hendak mengalami perubahan, perubahan tidak dilakukan pada block tersebut, tetapi block tersebut akan dibuatkan salinannya dan perubahan dilakukan pada salinan tersebut (salinan tidak akan dibuat sebelum adanya permintaan modifikasi dari pengguna data).
+
+</div>
